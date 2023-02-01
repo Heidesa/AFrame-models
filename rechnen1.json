@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": "1675172768820",
+            "tagname": "a-sphere",
+            "comment": "1 blau",
+            "position": "-10.0 0.0 -5.0",
+            "color": "#4545aa",
+            "opacity": 0.5,
+            "sizexyz": "1.0 1.0 1.0",
+            "rotation": "0 0 0",
+            "scale": 1,
+            "repeat": "0 0 0",
+            "repeatsteps": "1.0 1.0 1.0",
+            "animation": "1.0 1.0 1.0"
+        },
+        {
+            "id": "1675242731749",
+            "tagname": "a-sphere",
+            "comment": "2 rot",
+            "position": "-4.5 0.0 -5.0",
+            "color": "#ff3a2f",
+            "opacity": 0.5,
+            "sizexyz": "1.0 1.0 1.0",
+            "rotation": "0 0 0",
+            "scale": 1,
+            "repeat": "0 0 0",
+            "repeatsteps": "1.0 1.0 1.0",
+            "animation": "1.0 1.0 1.0"
+        }
+    ],
+    "config": {
+        "title": "Rechnen1",
+        "json_file": "rechnen1.json",
+        "globalscale": "1.0",
+        "globalmove": "0.0 0.0 0.0",
+        "globalrotate": "0.0 0.0 0.0",
+        "marker": "hiro",
+        "titlemodel": "Rechnen1",
+        "dataid": "json3d4aframe",
+        "use_aframe_sky": "N",
+        "aframe_sky_file": "https://niebert.github.io/HuginSample/img/cloud_grass.jpg",
+        "use_aframe_plane": "N",
+        "aframe_plane_color": "#7BC8A4",
+        "arselect": "ar"
+    }
+}
